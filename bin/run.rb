@@ -1,5 +1,5 @@
 require_relative
-"../config/encironment"
+"../config/environment"
 
 Hashie
 Sinatra
